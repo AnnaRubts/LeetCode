@@ -1,23 +1,24 @@
-LeetCode Solutions 🚀
+LeetCode Solutions 🚀  
 
-Welcome to my LeetCode Solutions repo! Here, I share my problem-solving journey with categorized solutions.
+Welcome to my LeetCode Solutions repo! Here, I share my problem-solving journey with categorized solutions.  
 
-📂 Structure
+📂 Structure  
 
-📂 LeetCode/
-│-- 📂 Data Structures/
-│-- 📂 Linked Lists/
-│-- 📂 Other/
-│-- README.md
+📂 LeetCode/  
+├── 📁 Data Structures/  
+├── 📁 Linked Lists/  
+├── 📁 Other/  
+├── 📄 README.md  
 
-🛠️ Languages
 
-Python 🐍
-C++ 💻 (Coming soon)
-Java ☕ (Future plans)
+🛠️ Languages  
 
-📈 Goals
+Python 🐍  
+C++ 💻 (Coming soon)  
+Java ☕ (Future plans)  
 
-Solve X problems/week 🏆
-Optimize code ⚡
-Prep for interviews 💼
+📈 Goals  
+
+Solve X problems/week 🏆  
+Optimize code ⚡  
+Prep for interviews 💼  
