@@ -1,3 +1,8 @@
+# Implement two Stacks in an Array
+# Create a data structure twoStacks that represent two stacks.
+#  Implementation of twoStacks should use fixed size,
+#  Push and Pop should be O(1).
+
 class TwoStacks:
     def __init__(self, capacity):
         self.stack = [0]*capacity
