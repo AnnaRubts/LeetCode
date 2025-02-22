@@ -1,5 +1,7 @@
 from Trie import Trie
 
+# given prefixes list and words list, check if there is a prefix matching one of the words
+
 def check_prefix_match(prefixes, words):
     myTrie = Trie()
     for prefix in prefixes:
