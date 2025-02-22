@@ -9,12 +9,10 @@ def longestCommonSubsequence(text1, text2):
     # for r in range(len(text1)):
     #     memo[r][0] = int(text1[r] == text2[0])
 
-    memo[0][0] = int(text1[0] == text2[0])
-
     for r in range(0, len(text1)):
         for c in range(0, len(text2)):
             if r==0 and c==0:
-                continue
+                memo[0][0] = int(text1[0] == text2[0])
             if r==0:
                 memo[r][c] = max(memo[r][c-1], int(text1[r] == text2[c]))
             if c==0:
